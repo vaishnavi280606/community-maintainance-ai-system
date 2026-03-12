@@ -1,0 +1,211 @@
+feedback_id,complaint_id,resident_id,rating,comment,sentiment_label
+FB0001,CMP0097,RES305,4,Satisfied with service.,Positive
+FB0002,CMP0191,RES207,5,Satisfied with service.,Positive
+FB0003,CMP0087,RES228,2,Unprofessional.,Negative
+FB0004,CMP0074,RES250,4,Issue fixed permanently.,Positive
+FB0005,CMP0098,RES998,1,Unprofessional.,Negative
+FB0006,CMP0052,RES468,5,Satisfied with service.,Positive
+FB0007,CMP0060,RES999,2,Staff was rude.,Negative
+FB0008,CMP0250,RES865,5,Issue fixed permanently.,Positive
+FB0009,CMP0127,RES338,5,Excellent work.,Positive
+FB0010,CMP0009,RES115,5,Very polite staff.,Positive
+FB0011,CMP0209,RES149,4,Issue fixed permanently.,Positive
+FB0012,CMP0065,RES622,1,Took 3 days to come.,Negative
+FB0013,CMP0055,RES354,1,Still not working.,Negative
+FB0014,CMP0108,RES993,3,Okay work.,Neutral
+FB0015,CMP0051,RES469,5,Very polite staff.,Positive
+FB0016,CMP0040,RES406,4,Very polite staff.,Positive
+FB0017,CMP0233,RES802,2,Staff was rude.,Negative
+FB0018,CMP0171,RES424,3,Could be better.,Neutral
+FB0019,CMP0067,RES489,3,Fixed for now.,Neutral
+FB0020,CMP0020,RES269,1,Staff was rude.,Negative
+FB0021,CMP0152,RES669,4,"Quick resolution, thanks!",Positive
+FB0022,CMP0135,RES789,1,Took 3 days to come.,Negative
+FB0023,CMP0234,RES171,1,Terrible service.,Negative
+FB0024,CMP0097,RES784,3,Average service.,Neutral
+FB0025,CMP0075,RES945,1,Terrible service.,Negative
+FB0026,CMP0234,RES689,5,Issue fixed permanently.,Positive
+FB0027,CMP0107,RES771,4,Very polite staff.,Positive
+FB0028,CMP0166,RES902,5,Issue fixed permanently.,Positive
+FB0029,CMP0097,RES141,3,Took some time but fixed.,Neutral
+FB0030,CMP0181,RES945,3,Fixed for now.,Neutral
+FB0031,CMP0072,RES790,2,Unprofessional.,Negative
+FB0032,CMP0133,RES713,5,Excellent work.,Positive
+FB0033,CMP0221,RES849,1,Unprofessional.,Negative
+FB0034,CMP0236,RES284,4,Satisfied with service.,Positive
+FB0035,CMP0196,RES602,1,Staff was rude.,Negative
+FB0036,CMP0140,RES366,1,Unprofessional.,Negative
+FB0037,CMP0243,RES838,4,Excellent work.,Positive
+FB0038,CMP0190,RES507,5,Issue fixed permanently.,Positive
+FB0039,CMP0026,RES233,1,Waste of time.,Negative
+FB0040,CMP0185,RES341,1,Still not working.,Negative
+FB0041,CMP0035,RES225,5,Excellent work.,Positive
+FB0042,CMP0165,RES785,4,Very polite staff.,Positive
+FB0043,CMP0115,RES421,4,Satisfied with service.,Positive
+FB0044,CMP0009,RES849,2,Terrible service.,Negative
+FB0045,CMP0233,RES613,4,Excellent work.,Positive
+FB0046,CMP0057,RES214,2,Unprofessional.,Negative
+FB0047,CMP0098,RES288,3,Took some time but fixed.,Neutral
+FB0048,CMP0115,RES786,3,Could be better.,Neutral
+FB0049,CMP0010,RES994,1,Terrible service.,Negative
+FB0050,CMP0035,RES800,4,"Quick resolution, thanks!",Positive
+FB0051,CMP0078,RES891,1,Waste of time.,Negative
+FB0052,CMP0160,RES930,4,Issue fixed permanently.,Positive
+FB0053,CMP0228,RES540,2,Waste of time.,Negative
+FB0054,CMP0041,RES257,5,Excellent work.,Positive
+FB0055,CMP0127,RES267,1,Unprofessional.,Negative
+FB0056,CMP0131,RES576,4,Satisfied with service.,Positive
+FB0057,CMP0052,RES179,1,Still not working.,Negative
+FB0058,CMP0130,RES341,5,Very polite staff.,Positive
+FB0059,CMP0185,RES498,4,"Quick resolution, thanks!",Positive
+FB0060,CMP0196,RES706,3,Okay work.,Neutral
+FB0061,CMP0222,RES759,5,Satisfied with service.,Positive
+FB0062,CMP0139,RES872,1,Terrible service.,Negative
+FB0063,CMP0037,RES869,1,Terrible service.,Negative
+FB0064,CMP0216,RES802,2,Terrible service.,Negative
+FB0065,CMP0159,RES936,3,Average service.,Neutral
+FB0066,CMP0239,RES123,5,Issue fixed permanently.,Positive
+FB0067,CMP0235,RES996,1,Unprofessional.,Negative
+FB0068,CMP0161,RES269,5,Excellent work.,Positive
+FB0069,CMP0103,RES707,3,Okay work.,Neutral
+FB0070,CMP0136,RES334,1,Staff was rude.,Negative
+FB0071,CMP0133,RES339,2,Still not working.,Negative
+FB0072,CMP0238,RES684,2,Terrible service.,Negative
+FB0073,CMP0044,RES273,2,Still not working.,Negative
+FB0074,CMP0184,RES632,1,Unprofessional.,Negative
+FB0075,CMP0201,RES294,3,Could be better.,Neutral
+FB0076,CMP0151,RES459,2,Unprofessional.,Negative
+FB0077,CMP0249,RES181,3,Took some time but fixed.,Neutral
+FB0078,CMP0083,RES901,4,Satisfied with service.,Positive
+FB0079,CMP0120,RES385,3,Fixed for now.,Neutral
+FB0080,CMP0049,RES799,3,Fixed for now.,Neutral
+FB0081,CMP0080,RES355,5,Satisfied with service.,Positive
+FB0082,CMP0175,RES587,2,Waste of time.,Negative
+FB0083,CMP0230,RES118,5,"Quick resolution, thanks!",Positive
+FB0084,CMP0178,RES683,3,Okay work.,Neutral
+FB0085,CMP0085,RES191,5,Satisfied with service.,Positive
+FB0086,CMP0069,RES270,4,Issue fixed permanently.,Positive
+FB0087,CMP0079,RES382,5,Excellent work.,Positive
+FB0088,CMP0097,RES278,1,Took 3 days to come.,Negative
+FB0089,CMP0132,RES600,3,Okay work.,Neutral
+FB0090,CMP0170,RES433,5,Satisfied with service.,Positive
+FB0091,CMP0091,RES121,2,Staff was rude.,Negative
+FB0092,CMP0086,RES316,3,Average service.,Neutral
+FB0093,CMP0175,RES292,1,Waste of time.,Negative
+FB0094,CMP0182,RES285,3,Okay work.,Neutral
+FB0095,CMP0159,RES246,2,Staff was rude.,Negative
+FB0096,CMP0150,RES690,3,Fixed for now.,Neutral
+FB0097,CMP0069,RES663,4,Satisfied with service.,Positive
+FB0098,CMP0035,RES489,3,Okay work.,Neutral
+FB0099,CMP0102,RES812,3,Okay work.,Neutral
+FB0100,CMP0143,RES758,4,Issue fixed permanently.,Positive
+FB0101,CMP0174,RES260,2,Staff was rude.,Negative
+FB0102,CMP0105,RES268,2,Staff was rude.,Negative
+FB0103,CMP0117,RES198,3,Took some time but fixed.,Neutral
+FB0104,CMP0181,RES425,5,"Quick resolution, thanks!",Positive
+FB0105,CMP0114,RES171,1,Waste of time.,Negative
+FB0106,CMP0237,RES128,3,Fixed for now.,Neutral
+FB0107,CMP0006,RES172,1,Waste of time.,Negative
+FB0108,CMP0240,RES739,4,Issue fixed permanently.,Positive
+FB0109,CMP0162,RES912,3,Took some time but fixed.,Neutral
+FB0110,CMP0174,RES208,3,Okay work.,Neutral
+FB0111,CMP0027,RES906,2,Terrible service.,Negative
+FB0112,CMP0156,RES847,2,Terrible service.,Negative
+FB0113,CMP0233,RES612,1,Unprofessional.,Negative
+FB0114,CMP0175,RES640,5,Issue fixed permanently.,Positive
+FB0115,CMP0022,RES771,3,Fixed for now.,Neutral
+FB0116,CMP0101,RES524,1,Staff was rude.,Negative
+FB0117,CMP0061,RES316,2,Terrible service.,Negative
+FB0118,CMP0216,RES369,2,Staff was rude.,Negative
+FB0119,CMP0249,RES872,5,Satisfied with service.,Positive
+FB0120,CMP0058,RES914,1,Took 3 days to come.,Negative
+FB0121,CMP0015,RES137,2,Waste of time.,Negative
+FB0122,CMP0189,RES606,3,Okay work.,Neutral
+FB0123,CMP0237,RES494,4,Issue fixed permanently.,Positive
+FB0124,CMP0108,RES340,5,Excellent work.,Positive
+FB0125,CMP0101,RES268,3,Took some time but fixed.,Neutral
+FB0126,CMP0186,RES889,3,Took some time but fixed.,Neutral
+FB0127,CMP0029,RES461,2,Waste of time.,Negative
+FB0128,CMP0094,RES669,4,Issue fixed permanently.,Positive
+FB0129,CMP0034,RES330,4,Satisfied with service.,Positive
+FB0130,CMP0157,RES479,1,Took 3 days to come.,Negative
+FB0131,CMP0211,RES501,2,Took 3 days to come.,Negative
+FB0132,CMP0042,RES480,3,Could be better.,Neutral
+FB0133,CMP0117,RES880,1,Took 3 days to come.,Negative
+FB0134,CMP0136,RES544,5,Satisfied with service.,Positive
+FB0135,CMP0044,RES146,1,Still not working.,Negative
+FB0136,CMP0142,RES368,1,Unprofessional.,Negative
+FB0137,CMP0246,RES139,2,Terrible service.,Negative
+FB0138,CMP0118,RES811,2,Still not working.,Negative
+FB0139,CMP0164,RES887,4,Issue fixed permanently.,Positive
+FB0140,CMP0214,RES874,3,Fixed for now.,Neutral
+FB0141,CMP0134,RES694,4,Satisfied with service.,Positive
+FB0142,CMP0214,RES983,3,Could be better.,Neutral
+FB0143,CMP0205,RES430,4,Satisfied with service.,Positive
+FB0144,CMP0151,RES486,4,"Quick resolution, thanks!",Positive
+FB0145,CMP0090,RES213,5,"Quick resolution, thanks!",Positive
+FB0146,CMP0131,RES113,5,Satisfied with service.,Positive
+FB0147,CMP0071,RES550,2,Unprofessional.,Negative
+FB0148,CMP0175,RES996,4,"Quick resolution, thanks!",Positive
+FB0149,CMP0006,RES864,3,Took some time but fixed.,Neutral
+FB0150,CMP0017,RES827,5,Satisfied with service.,Positive
+FB0151,CMP0232,RES662,2,Staff was rude.,Negative
+FB0152,CMP0054,RES942,5,Very polite staff.,Positive
+FB0153,CMP0117,RES431,3,Average service.,Neutral
+FB0154,CMP0162,RES154,2,Still not working.,Negative
+FB0155,CMP0028,RES729,2,Waste of time.,Negative
+FB0156,CMP0154,RES196,5,Very polite staff.,Positive
+FB0157,CMP0152,RES141,4,"Quick resolution, thanks!",Positive
+FB0158,CMP0052,RES469,4,Issue fixed permanently.,Positive
+FB0159,CMP0151,RES509,2,Still not working.,Negative
+FB0160,CMP0167,RES154,3,Okay work.,Neutral
+FB0161,CMP0017,RES714,1,Took 3 days to come.,Negative
+FB0162,CMP0133,RES770,4,Excellent work.,Positive
+FB0163,CMP0156,RES355,2,Took 3 days to come.,Negative
+FB0164,CMP0069,RES650,2,Staff was rude.,Negative
+FB0165,CMP0072,RES533,4,Excellent work.,Positive
+FB0166,CMP0167,RES671,3,Average service.,Neutral
+FB0167,CMP0072,RES471,1,Unprofessional.,Negative
+FB0168,CMP0201,RES860,1,Still not working.,Negative
+FB0169,CMP0148,RES262,1,Took 3 days to come.,Negative
+FB0170,CMP0196,RES961,5,"Quick resolution, thanks!",Positive
+FB0171,CMP0053,RES805,2,Staff was rude.,Negative
+FB0172,CMP0147,RES813,2,Waste of time.,Negative
+FB0173,CMP0165,RES351,4,"Quick resolution, thanks!",Positive
+FB0174,CMP0160,RES827,3,Okay work.,Neutral
+FB0175,CMP0106,RES418,2,Unprofessional.,Negative
+FB0176,CMP0241,RES723,5,Very polite staff.,Positive
+FB0177,CMP0151,RES859,1,Still not working.,Negative
+FB0178,CMP0140,RES145,4,"Quick resolution, thanks!",Positive
+FB0179,CMP0197,RES445,5,Issue fixed permanently.,Positive
+FB0180,CMP0162,RES734,4,"Quick resolution, thanks!",Positive
+FB0181,CMP0175,RES930,2,Staff was rude.,Negative
+FB0182,CMP0042,RES126,1,Waste of time.,Negative
+FB0183,CMP0004,RES299,4,"Quick resolution, thanks!",Positive
+FB0184,CMP0156,RES736,2,Took 3 days to come.,Negative
+FB0185,CMP0172,RES584,2,Waste of time.,Negative
+FB0186,CMP0250,RES257,4,Satisfied with service.,Positive
+FB0187,CMP0087,RES770,5,"Quick resolution, thanks!",Positive
+FB0188,CMP0147,RES510,1,Took 3 days to come.,Negative
+FB0189,CMP0194,RES548,3,Average service.,Neutral
+FB0190,CMP0112,RES276,2,Took 3 days to come.,Negative
+FB0191,CMP0244,RES246,3,Took some time but fixed.,Neutral
+FB0192,CMP0201,RES772,4,Issue fixed permanently.,Positive
+FB0193,CMP0226,RES794,5,Issue fixed permanently.,Positive
+FB0194,CMP0100,RES706,4,"Quick resolution, thanks!",Positive
+FB0195,CMP0178,RES175,3,Average service.,Neutral
+FB0196,CMP0219,RES965,1,Still not working.,Negative
+FB0197,CMP0228,RES782,5,"Quick resolution, thanks!",Positive
+FB0198,CMP0233,RES724,5,"Quick resolution, thanks!",Positive
+FB0199,CMP0189,RES541,4,"Quick resolution, thanks!",Positive
+FB0200,CMP0190,RES276,4,Excellent work.,Positive
+FB0201,CMP0206,RES357,1,Terrible service.,Negative
+FB0202,CMP0144,RES360,4,"Quick resolution, thanks!",Positive
+FB0203,CMP0072,RES842,3,Took some time but fixed.,Neutral
+FB0204,CMP0196,RES481,1,Waste of time.,Negative
+FB0205,CMP0171,RES137,2,Waste of time.,Negative
+FB0206,CMP0007,RES144,1,Unprofessional.,Negative
+FB0207,CMP0141,RES249,1,Took 3 days to come.,Negative
+FB0208,CMP0049,RES154,3,Average service.,Neutral
+FB0209,CMP0181,RES446,4,Very polite staff.,Positive
+FB0210,CMP0234,RES768,4,Issue fixed permanently.,Positive

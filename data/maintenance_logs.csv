@@ -1,0 +1,221 @@
+log_id,asset_name,maintenance_type,action_taken,cost,date,downtime_hours,technician_id
+LOG0051,DG Set 1,Preventive,Part Replacement,10430.31,2025-03-14,9.7,TECH33
+LOG0215,Water Pump Main,Preventive,Sensor Calibration,4151.02,2025-03-17,11.1,TECH41
+LOG0075,Swimming Pool Filter,Corrective,Sensor Calibration,13214.19,2025-03-18,22.2,TECH32
+LOG0053,Lift 1B,Corrective,Belt Alignment,9097.11,2025-03-19,21.8,TECH20
+LOG0162,Lift 1B,Preventive,Sensor Calibration,5119.16,2025-03-21,6.8,TECH24
+LOG0159,STP Motor,Corrective,Part Replacement,4185.26,2025-03-22,11.3,TECH38
+LOG0190,Lift 1B,Preventive,Emergency Repair,5579.62,2025-03-22,17.8,TECH21
+LOG0099,Swimming Pool Filter,Corrective,Oil Change,7088.45,2025-03-23,15.5,TECH16
+LOG0072,Water Pump Main,Preventive,Belt Alignment,13306.96,2025-03-23,12.9,TECH12
+LOG0054,Lift 1B,Corrective,Belt Alignment,4012.38,2025-03-24,17.2,TECH20
+LOG0119,Water Pump Main,Corrective,Belt Alignment,1387.64,2025-03-30,13.3,TECH27
+LOG0117,Water Pump Main,Preventive,Sensor Calibration,7014.47,2025-04-01,23.2,TECH15
+LOG0136,Transformer Block A,Corrective,Sensor Calibration,2727.18,2025-04-04,12.8,TECH12
+LOG0134,Swimming Pool Filter,Preventive,Oil Change,11872.46,2025-04-06,23.3,TECH42
+LOG0044,Lift 1A,Corrective,Oil Change,4849.88,2025-04-07,19.2,TECH49
+LOG0164,Lift 1B,Preventive,Emergency Repair,12072.19,2025-04-07,16.9,TECH25
+LOG0165,DG Set 1,Corrective,Routine Service,13990.46,2025-04-08,17.7,TECH46
+LOG0193,STP Motor,Corrective,Sensor Calibration,13834.79,2025-04-09,5.2,TECH25
+LOG0100,STP Motor,Preventive,Sensor Calibration,3719.96,2025-04-12,10.1,TECH47
+LOG0189,STP Motor,Preventive,Oil Change,1320.42,2025-04-12,9.8,TECH34
+LOG0175,Lift 1B,Corrective,Emergency Repair,8830.58,2025-04-18,6.8,TECH47
+LOG0135,Lift 1A,Preventive,Part Replacement,4982.9,2025-04-19,18.7,TECH28
+LOG0169,Lift 1A,Preventive,Emergency Repair,11666.17,2025-04-20,22.0,TECH47
+LOG0157,DG Set 1,Preventive,Sensor Calibration,6704.52,2025-04-22,13.4,TECH27
+LOG0074,Transformer Block A,Corrective,Emergency Repair,11090.43,2025-04-22,7.3,TECH36
+LOG0198,Lift 1A,Preventive,Emergency Repair,7011.22,2025-04-23,22.7,TECH19
+LOG0073,Water Pump Main,Preventive,Routine Service,1304.64,2025-04-26,15.9,TECH25
+LOG0041,STP Motor,Preventive,Sensor Calibration,14838.9,2025-04-28,9.3,TECH33
+LOG0125,Transformer Block A,Preventive,Routine Service,6559.79,2025-04-28,17.1,TECH35
+LOG0033,Lift 1B,Preventive,Sensor Calibration,9833.24,2025-05-01,18.7,TECH21
+LOG0129,Water Pump Main,Corrective,Belt Alignment,14876.16,2025-05-06,4.2,TECH44
+LOG0085,Transformer Block A,Corrective,Oil Change,10942.12,2025-05-08,18.1,TECH41
+LOG0102,Lift 1A,Preventive,Routine Service,13715.35,2025-05-10,2.5,TECH33
+LOG0049,Lift 1B,Corrective,Belt Alignment,10322.75,2025-05-10,10.8,TECH12
+LOG0095,Lift 1B,Preventive,Oil Change,2200.74,2025-05-14,14.0,TECH41
+LOG0211,Lift 1B,Corrective,Oil Change,14763.39,2025-05-14,8.4,TECH20
+LOG0137,Lift 1B,Corrective,Emergency Repair,8343.22,2025-05-14,19.8,TECH27
+LOG0202,Water Pump Main,Preventive,Sensor Calibration,11336.59,2025-05-16,10.4,TECH42
+LOG0201,Lift 1A,Preventive,Routine Service,3904.22,2025-05-18,3.7,TECH46
+LOG0210,Transformer Block A,Corrective,Routine Service,1341.76,2025-05-18,14.9,TECH33
+LOG0191,Lift 1B,Preventive,Emergency Repair,2608.43,2025-05-19,5.1,TECH46
+LOG0036,DG Set 1,Corrective,Oil Change,7347.61,2025-05-20,20.2,TECH23
+LOG0188,STP Motor,Preventive,Emergency Repair,9212.03,2025-05-20,23.8,TECH32
+LOG0027,Transformer Block A,Preventive,Sensor Calibration,7946.84,2025-05-22,11.2,TECH23
+LOG0024,DG Set 1,Corrective,Part Replacement,12006.38,2025-05-23,19.0,TECH13
+LOG0195,Lift 1A,Preventive,Belt Alignment,9665.0,2025-05-24,7.8,TECH27
+LOG0140,Swimming Pool Filter,Preventive,Belt Alignment,6282.17,2025-05-24,22.2,TECH11
+LOG0078,STP Motor,Preventive,Emergency Repair,8715.06,2025-05-26,2.9,TECH20
+LOG0204,Lift 1B,Preventive,Part Replacement,3977.39,2025-05-26,22.4,TECH34
+LOG0174,Transformer Block A,Preventive,Part Replacement,10849.53,2025-05-27,15.9,TECH33
+LOG0142,Lift 1A,Corrective,Belt Alignment,13245.59,2025-05-30,22.9,TECH36
+LOG0115,Transformer Block A,Corrective,Belt Alignment,1818.2,2025-06-01,14.4,TECH34
+LOG0128,Water Pump Main,Corrective,Emergency Repair,6668.3,2025-06-03,15.0,TECH42
+LOG0006,Lift 1A,Preventive,Oil Change,12522.32,2025-06-04,6.4,TECH20
+LOG0109,Transformer Block A,Preventive,Routine Service,7865.66,2025-06-05,17.4,TECH31
+LOG0088,DG Set 1,Corrective,Belt Alignment,14889.64,2025-06-10,20.6,TECH46
+LOG0216,Lift 1A,Preventive,Part Replacement,7512.11,2025-06-13,21.7,TECH48
+LOG0068,DG Set 1,Preventive,Belt Alignment,901.19,2025-06-13,23.9,TECH21
+LOG0065,Water Pump Main,Corrective,Part Replacement,3134.02,2025-06-16,23.5,TECH27
+LOG0123,Swimming Pool Filter,Corrective,Part Replacement,4614.02,2025-06-17,18.8,TECH40
+LOG0048,STP Motor,Preventive,Oil Change,2698.5,2025-06-18,13.5,TECH31
+LOG0012,Water Pump Main,Corrective,Part Replacement,6745.41,2025-06-19,5.7,TECH39
+LOG0022,STP Motor,Preventive,Belt Alignment,5069.66,2025-06-19,22.8,TECH33
+LOG0032,DG Set 1,Corrective,Belt Alignment,14538.21,2025-06-20,15.9,TECH47
+LOG0081,Water Pump Main,Preventive,Sensor Calibration,14892.22,2025-06-24,2.4,TECH16
+LOG0144,STP Motor,Preventive,Emergency Repair,2151.94,2025-06-27,18.9,TECH36
+LOG0155,Lift 1A,Preventive,Oil Change,5252.01,2025-06-28,23.6,TECH15
+LOG0052,Water Pump Main,Preventive,Emergency Repair,3719.8,2025-06-30,20.0,TECH12
+LOG0141,Swimming Pool Filter,Corrective,Emergency Repair,11825.42,2025-06-30,2.6,TECH20
+LOG0020,Swimming Pool Filter,Preventive,Routine Service,12339.54,2025-07-02,4.0,TECH41
+LOG0038,Lift 1A,Corrective,Sensor Calibration,2534.65,2025-07-02,15.0,TECH16
+LOG0025,DG Set 1,Corrective,Sensor Calibration,1882.46,2025-07-06,8.4,TECH44
+LOG0152,Water Pump Main,Corrective,Belt Alignment,5463.5,2025-07-08,17.1,TECH19
+LOG0007,Water Pump Main,Preventive,Emergency Repair,1147.0,2025-07-09,9.6,TECH34
+LOG0147,Transformer Block A,Preventive,Part Replacement,9456.26,2025-07-10,21.0,TECH12
+LOG0168,STP Motor,Corrective,Belt Alignment,5471.78,2025-07-13,9.0,TECH27
+LOG0181,Lift 1B,Preventive,Sensor Calibration,11675.07,2025-07-13,21.1,TECH47
+LOG0218,Water Pump Main,Corrective,Sensor Calibration,7700.06,2025-07-16,1.2,TECH48
+LOG0016,Water Pump Main,Preventive,Belt Alignment,5038.66,2025-07-20,21.3,TECH47
+LOG0185,Water Pump Main,Preventive,Part Replacement,5784.46,2025-07-21,1.2,TECH48
+LOG0161,DG Set 1,Corrective,Oil Change,8753.33,2025-07-23,19.7,TECH22
+LOG0214,Water Pump Main,Corrective,Sensor Calibration,3343.42,2025-07-25,1.1,TECH33
+LOG0043,STP Motor,Corrective,Oil Change,11032.83,2025-08-04,15.5,TECH35
+LOG0103,Lift 1A,Corrective,Emergency Repair,1014.25,2025-08-04,9.2,TECH28
+LOG0183,Water Pump Main,Corrective,Part Replacement,7920.49,2025-08-06,9.4,TECH31
+LOG0200,Lift 1A,Corrective,Sensor Calibration,14816.25,2025-08-09,14.6,TECH16
+LOG0101,Lift 1A,Preventive,Emergency Repair,1132.41,2025-08-11,5.1,TECH29
+LOG0114,STP Motor,Preventive,Routine Service,693.7,2025-08-13,22.0,TECH20
+LOG0059,DG Set 1,Preventive,Oil Change,9350.06,2025-08-18,6.9,TECH21
+LOG0039,Lift 1B,Corrective,Belt Alignment,9034.73,2025-08-19,13.5,TECH19
+LOG0149,Swimming Pool Filter,Preventive,Oil Change,4150.96,2025-08-19,14.7,TECH23
+LOG0079,STP Motor,Corrective,Sensor Calibration,5949.05,2025-08-21,10.6,TECH26
+LOG0156,Transformer Block A,Preventive,Part Replacement,8089.04,2025-08-22,13.4,TECH44
+LOG0199,Lift 1A,Preventive,Part Replacement,14192.2,2025-08-23,13.9,TECH39
+LOG0011,Lift 1A,Preventive,Part Replacement,6505.11,2025-08-24,9.0,TECH24
+LOG0121,Swimming Pool Filter,Corrective,Part Replacement,2621.29,2025-08-26,2.4,TECH20
+LOG0040,Lift 1A,Preventive,Sensor Calibration,1400.96,2025-08-28,17.5,TECH41
+LOG0076,DG Set 1,Corrective,Sensor Calibration,8487.36,2025-08-30,15.2,TECH23
+LOG0010,DG Set 1,Preventive,Emergency Repair,1293.08,2025-08-31,11.9,TECH18
+LOG0021,Lift 1B,Corrective,Part Replacement,7219.39,2025-09-01,11.6,TECH11
+LOG0063,Water Pump Main,Corrective,Sensor Calibration,14278.68,2025-09-01,9.5,TECH19
+LOG0220,Transformer Block A,Preventive,Belt Alignment,1655.61,2025-09-01,3.0,TECH25
+LOG0061,Water Pump Main,Corrective,Sensor Calibration,11848.35,2025-09-10,22.7,TECH18
+LOG0133,Lift 1A,Corrective,Emergency Repair,10505.91,2025-09-11,15.7,TECH31
+LOG0042,Transformer Block A,Corrective,Sensor Calibration,14417.04,2025-09-16,14.8,TECH30
+LOG0192,DG Set 1,Preventive,Sensor Calibration,4896.49,2025-09-19,9.1,TECH15
+LOG0019,Lift 1A,Preventive,Belt Alignment,8305.89,2025-09-24,18.9,TECH16
+LOG0203,Water Pump Main,Corrective,Sensor Calibration,1985.89,2025-09-26,16.3,TECH48
+LOG0179,Water Pump Main,Corrective,Part Replacement,3030.83,2025-09-28,4.7,TECH30
+LOG0197,Lift 1B,Preventive,Routine Service,5365.41,2025-10-02,2.2,TECH45
+LOG0182,Swimming Pool Filter,Corrective,Sensor Calibration,4811.0,2025-10-02,1.1,TECH26
+LOG0015,STP Motor,Preventive,Routine Service,5869.97,2025-10-03,4.6,TECH11
+LOG0148,Swimming Pool Filter,Corrective,Routine Service,10499.13,2025-10-04,17.3,TECH36
+LOG0213,STP Motor,Preventive,Part Replacement,6787.39,2025-10-04,7.8,TECH29
+LOG0090,DG Set 1,Corrective,Routine Service,6637.48,2025-10-05,11.0,TECH24
+LOG0014,Lift 1A,Corrective,Belt Alignment,13734.56,2025-10-05,13.0,TECH31
+LOG0172,STP Motor,Preventive,Routine Service,10779.67,2025-10-06,16.0,TECH39
+LOG0108,Swimming Pool Filter,Corrective,Emergency Repair,14623.97,2025-10-07,13.7,TECH38
+LOG0186,Water Pump Main,Preventive,Sensor Calibration,3015.78,2025-10-08,6.8,TECH10
+LOG0060,Lift 1B,Preventive,Part Replacement,9275.56,2025-10-09,18.9,TECH43
+LOG0219,Lift 1B,Preventive,Emergency Repair,4439.98,2025-10-09,4.3,TECH36
+LOG0098,Water Pump Main,Preventive,Belt Alignment,4099.76,2025-10-10,4.3,TECH45
+LOG0206,Transformer Block A,Preventive,Oil Change,7060.56,2025-10-10,17.9,TECH41
+LOG0106,Lift 1A,Preventive,Oil Change,12259.23,2025-10-11,6.4,TECH25
+LOG0194,Lift 1A,Preventive,Belt Alignment,3944.19,2025-10-11,14.7,TECH40
+LOG0057,STP Motor,Corrective,Belt Alignment,11750.67,2025-10-11,23.6,TECH36
+LOG0082,DG Set 1,Corrective,Oil Change,7735.42,2025-10-12,10.9,TECH34
+LOG0030,Lift 1B,Preventive,Emergency Repair,1316.85,2025-10-12,7.7,TECH30
+LOG0150,DG Set 1,Preventive,Belt Alignment,12599.16,2025-10-13,20.3,TECH32
+LOG0167,Water Pump Main,Preventive,Routine Service,12741.01,2025-10-14,23.2,TECH47
+LOG0083,Lift 1A,Preventive,Sensor Calibration,6798.69,2025-10-14,14.3,TECH41
+LOG0207,Transformer Block A,Corrective,Part Replacement,11432.88,2025-10-14,7.8,TECH10
+LOG0184,Water Pump Main,Corrective,Sensor Calibration,4283.82,2025-10-21,13.1,TECH42
+LOG0209,Lift 1A,Corrective,Oil Change,7457.52,2025-10-23,5.7,TECH19
+LOG0143,STP Motor,Preventive,Oil Change,2079.94,2025-10-24,21.0,TECH16
+LOG0086,Transformer Block A,Preventive,Oil Change,4295.57,2025-10-26,7.9,TECH38
+LOG0056,DG Set 1,Preventive,Sensor Calibration,12696.35,2025-10-27,18.4,TECH21
+LOG0176,Swimming Pool Filter,Corrective,Belt Alignment,13563.85,2025-10-30,14.0,TECH46
+LOG0096,Lift 1B,Corrective,Routine Service,14519.57,2025-10-30,13.4,TECH31
+LOG0034,STP Motor,Preventive,Emergency Repair,13674.6,2025-10-31,1.2,TECH49
+LOG0178,DG Set 1,Preventive,Emergency Repair,9660.09,2025-11-01,17.0,TECH39
+LOG0120,DG Set 1,Preventive,Emergency Repair,12870.86,2025-11-03,10.4,TECH10
+LOG0118,STP Motor,Corrective,Emergency Repair,1477.64,2025-11-06,20.7,TECH44
+LOG0146,Water Pump Main,Preventive,Emergency Repair,542.6,2025-11-06,16.5,TECH16
+LOG0130,Lift 1A,Preventive,Emergency Repair,789.56,2025-11-09,12.1,TECH14
+LOG0166,STP Motor,Preventive,Part Replacement,12495.52,2025-11-12,3.0,TECH45
+LOG0208,Lift 1B,Preventive,Belt Alignment,2739.91,2025-11-14,22.3,TECH24
+LOG0126,Lift 1B,Corrective,Emergency Repair,12494.2,2025-11-15,3.7,TECH29
+LOG0092,Water Pump Main,Preventive,Emergency Repair,5014.75,2025-11-17,15.9,TECH42
+LOG0158,Transformer Block A,Corrective,Belt Alignment,13745.86,2025-11-17,23.4,TECH41
+LOG0018,Water Pump Main,Preventive,Part Replacement,2090.85,2025-11-21,11.3,TECH40
+LOG0154,Lift 1A,Preventive,Routine Service,14142.94,2025-11-21,11.8,TECH24
+LOG0212,STP Motor,Corrective,Emergency Repair,5185.76,2025-11-22,6.2,TECH10
+LOG0062,Swimming Pool Filter,Preventive,Routine Service,5991.4,2025-11-24,23.9,TECH27
+LOG0005,Lift 1A,Corrective,Part Replacement,8119.03,2025-11-26,18.3,TECH27
+LOG0112,Lift 1B,Corrective,Belt Alignment,7191.69,2025-11-26,10.4,TECH49
+LOG0173,Water Pump Main,Preventive,Part Replacement,7405.16,2025-11-27,18.6,TECH37
+LOG0084,STP Motor,Preventive,Sensor Calibration,10680.22,2025-11-27,2.7,TECH41
+LOG0047,Lift 1A,Corrective,Sensor Calibration,9074.51,2025-11-28,21.6,TECH25
+LOG0139,Lift 1B,Corrective,Emergency Repair,2121.28,2025-12-03,5.2,TECH13
+LOG0089,Lift 1A,Corrective,Sensor Calibration,2435.51,2025-12-07,2.0,TECH27
+LOG0113,STP Motor,Corrective,Oil Change,12698.35,2025-12-09,1.3,TECH33
+LOG0127,Lift 1A,Preventive,Sensor Calibration,13479.13,2025-12-10,21.5,TECH33
+LOG0163,STP Motor,Corrective,Sensor Calibration,2912.09,2025-12-10,18.9,TECH33
+LOG0026,Lift 1B,Corrective,Emergency Repair,12504.89,2025-12-13,10.3,TECH32
+LOG0035,Water Pump Main,Preventive,Emergency Repair,4578.29,2025-12-16,15.7,TECH10
+LOG0138,Transformer Block A,Preventive,Oil Change,855.57,2025-12-16,11.2,TECH35
+LOG0071,Water Pump Main,Preventive,Sensor Calibration,2230.18,2025-12-17,11.3,TECH18
+LOG0013,DG Set 1,Corrective,Routine Service,2013.03,2025-12-18,13.8,TECH32
+LOG0094,Swimming Pool Filter,Preventive,Part Replacement,12776.34,2025-12-18,22.1,TECH26
+LOG0160,Water Pump Main,Corrective,Emergency Repair,8264.55,2025-12-19,4.8,TECH24
+LOG0008,DG Set 1,Preventive,Sensor Calibration,4292.43,2025-12-20,14.3,TECH47
+LOG0004,STP Motor,Preventive,Part Replacement,11763.44,2025-12-22,8.9,TECH22
+LOG0050,Lift 1B,Preventive,Sensor Calibration,9030.48,2025-12-22,14.5,TECH23
+LOG0187,DG Set 1,Preventive,Routine Service,14938.97,2025-12-26,10.5,TECH36
+LOG0023,Transformer Block A,Preventive,Emergency Repair,8908.77,2025-12-27,14.8,TECH39
+LOG0091,Water Pump Main,Preventive,Emergency Repair,7512.54,2025-12-29,13.3,TECH25
+LOG0064,Lift 1A,Corrective,Routine Service,14382.71,2025-12-31,20.4,TECH19
+LOG0177,Water Pump Main,Corrective,Belt Alignment,7507.15,2026-01-01,9.9,TECH33
+LOG0067,Water Pump Main,Preventive,Part Replacement,8565.83,2026-01-04,4.7,TECH25
+LOG0002,STP Motor,Preventive,Routine Service,11806.04,2026-01-04,12.6,TECH49
+LOG0003,Water Pump Main,Preventive,Emergency Repair,6080.89,2026-01-05,20.5,TECH31
+LOG0070,Water Pump Main,Preventive,Emergency Repair,4927.09,2026-01-06,14.8,TECH17
+LOG0205,STP Motor,Preventive,Emergency Repair,14237.62,2026-01-07,17.2,TECH39
+LOG0058,Water Pump Main,Preventive,Part Replacement,6284.8,2026-01-07,23.3,TECH43
+LOG0093,Transformer Block A,Preventive,Routine Service,14722.9,2026-01-07,6.4,TECH13
+LOG0104,Water Pump Main,Corrective,Oil Change,11728.43,2026-01-07,0.6,TECH17
+LOG0132,Swimming Pool Filter,Preventive,Belt Alignment,539.53,2026-01-07,13.5,TECH44
+LOG0111,Water Pump Main,Corrective,Emergency Repair,11856.8,2026-01-08,1.7,TECH40
+LOG0116,Transformer Block A,Corrective,Routine Service,3547.19,2026-01-09,17.7,TECH43
+LOG0066,Water Pump Main,Corrective,Routine Service,10133.96,2026-01-10,9.9,TECH40
+LOG0196,Lift 1A,Preventive,Part Replacement,7140.37,2026-01-11,1.7,TECH43
+LOG0001,Lift 1B,Preventive,Emergency Repair,7171.21,2026-01-13,23.1,TECH19
+LOG0037,STP Motor,Preventive,Sensor Calibration,4634.59,2026-01-18,18.6,TECH27
+LOG0124,Lift 1A,Preventive,Belt Alignment,3475.53,2026-01-21,19.6,TECH20
+LOG0046,Swimming Pool Filter,Corrective,Sensor Calibration,4654.98,2026-01-21,1.9,TECH35
+LOG0105,Swimming Pool Filter,Corrective,Part Replacement,3264.16,2026-01-22,19.8,TECH31
+LOG0107,Water Pump Main,Preventive,Sensor Calibration,4839.22,2026-01-23,22.4,TECH23
+LOG0087,Transformer Block A,Preventive,Belt Alignment,5153.83,2026-01-24,22.1,TECH30
+LOG0217,Transformer Block A,Corrective,Belt Alignment,12055.14,2026-01-27,23.2,TECH18
+LOG0153,Swimming Pool Filter,Corrective,Oil Change,1444.77,2026-01-28,11.8,TECH40
+LOG0055,Lift 1B,Corrective,Sensor Calibration,3305.15,2026-02-04,13.8,TECH17
+LOG0131,Lift 1B,Corrective,Part Replacement,5357.67,2026-02-05,5.2,TECH27
+LOG0110,Swimming Pool Filter,Corrective,Emergency Repair,12453.89,2026-02-06,20.0,TECH25
+LOG0080,Lift 1A,Corrective,Emergency Repair,8383.9,2026-02-06,20.7,TECH34
+LOG0029,Water Pump Main,Preventive,Oil Change,3471.56,2026-02-07,19.0,TECH47
+LOG0171,DG Set 1,Preventive,Emergency Repair,13689.17,2026-02-07,15.8,TECH48
+LOG0031,Water Pump Main,Preventive,Emergency Repair,9017.74,2026-02-12,18.2,TECH44
+LOG0069,Lift 1A,Preventive,Sensor Calibration,7842.1,2026-02-16,1.7,TECH45
+LOG0180,Transformer Block A,Corrective,Emergency Repair,13774.76,2026-02-17,5.4,TECH20
+LOG0151,Lift 1A,Corrective,Belt Alignment,8118.76,2026-02-18,18.1,TECH27
+LOG0045,Lift 1B,Preventive,Belt Alignment,1850.87,2026-02-21,19.0,TECH44
+LOG0145,Lift 1B,Preventive,Oil Change,13138.3,2026-02-23,18.0,TECH14
+LOG0097,Transformer Block A,Preventive,Oil Change,7167.49,2026-02-24,6.5,TECH12
+LOG0077,Transformer Block A,Preventive,Part Replacement,6929.38,2026-02-26,3.4,TECH21
+LOG0017,Lift 1A,Preventive,Routine Service,10247.01,2026-02-28,13.4,TECH22
+LOG0122,STP Motor,Preventive,Emergency Repair,8678.31,2026-03-01,2.4,TECH46
+LOG0028,Transformer Block A,Preventive,Emergency Repair,11182.58,2026-03-01,10.7,TECH48
+LOG0009,Swimming Pool Filter,Corrective,Routine Service,4661.53,2026-03-01,4.5,TECH32
+LOG0170,STP Motor,Preventive,Belt Alignment,869.82,2026-03-02,6.2,TECH42

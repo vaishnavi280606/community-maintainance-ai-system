@@ -1,0 +1,12 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+scikit-learn
+nltk
+spacy
+sentence-transformers
+pandas
+numpy
+shap
+django-cors-headers

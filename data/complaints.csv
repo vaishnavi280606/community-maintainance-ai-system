@@ -1,0 +1,251 @@
+complaint_id,resident_id,description,location,category,priority,status,timestamp,assigned_staff
+CMP0001,RES652,no water supply please fix ASAP,Block B,Plumbing,Critical,Assigned,2026-02-10 03:10:00,TECH49
+CMP0002,RES651,clubhouse washroom unclean please fix ASAP,Main Gate,Cleanliness,Low,Resolved,2026-01-19 09:46:00,
+CMP0003,RES574,Issue: CCTV camera broken,Main Gate,Security,Low,Assigned,2026-01-19 08:05:00,TECH12
+CMP0004,RES138,Drainage blocked,Block B,Plumbing,Low,Assigned,2026-01-22 09:05:00,
+CMP0005,RES123,Overhead tank overflowing,Clubhouse,Plumbing,Low,Assigned,2026-02-04 13:59:00,TECH31
+CMP0006,RES470,Issue: Boom barrier not opening,Block B,Security,High,In Progress,2025-12-14 17:01:00,TECH24
+CMP0007,RES259,kitchen sink pipe leaking please fix ASAP,Block B,Plumbing,Low,Closed,2026-02-11 17:03:00,TECH50
+CMP0008,RES136,Issue: Corridor sweeping missed,Clubhouse,Cleanliness,Medium,In Progress,2026-02-08 09:16:00,
+CMP0009,RES293,bypass entry detected please fix ASAP,Block C,Security,Low,Closed,2026-01-28 08:01:00,TECH33
+CMP0010,RES938,Issue: Foul smell near dustbin,Basement Parking,Cleanliness,Low,Assigned,2026-02-24 10:28:00,TECH49
+CMP0011,RES877,Overhead tank overflowing,Main Gate,Plumbing,High,In Progress,2025-12-29 17:37:00,TECH18
+CMP0012,RES348,Issue: CCTV camera broken,Block A,Security,Medium,Assigned,2026-03-07 00:30:00,TECH12
+CMP0013,RES478,Lift fan not working,Main Gate,Elevator,Medium,Open,2025-12-21 13:27:00,TECH21
+CMP0014,RES769,main gate unattended please fix ASAP,Block C,Security,Critical,Assigned,2025-12-20 10:50:00,TECH49
+CMP0015,RES372,Main door lock stuck,Basement Parking,Carpentry,High,Closed,2026-02-08 05:00:00,TECH23
+CMP0016,RES824,Garbage not collected,Basement Parking,Cleanliness,Medium,Assigned,2026-03-03 05:43:00,TECH42
+CMP0017,RES467,cctv camera broken please fix ASAP,Block A,Security,Critical,In Progress,2026-02-22 01:35:00,
+CMP0018,RES891,Issue: Street light not working,Clubhouse,Electrical,Critical,Resolved,2026-02-24 02:14:00,TECH41
+CMP0019,RES751,corridor lights flickering please fix ASAP,Block A,Electrical,Critical,Closed,2026-01-01 23:36:00,TECH33
+CMP0020,RES765,Window sliding track jammed,Block B,Carpentry,Low,Closed,2026-01-23 16:34:00,TECH47
+CMP0021,RES625,Corridor lights flickering,Main Gate,Electrical,Medium,Resolved,2026-01-15 05:02:00,
+CMP0022,RES501,Power cut in apartment,Basement Parking,Electrical,Critical,Open,2026-01-23 20:38:00,TECH27
+CMP0023,RES242,Issue: Overhead tank overflowing,Block B,Plumbing,Low,Closed,2026-02-10 07:53:00,TECH42
+CMP0024,RES985,Main gate unattended,Block B,Security,Low,In Progress,2026-02-04 13:07:00,TECH22
+CMP0025,RES579,no power in block b please fix ASAP,Block B,Electrical,Critical,Assigned,2026-01-19 17:49:00,TECH50
+CMP0026,RES998,Lift fan not working,Main Gate,Elevator,Low,Assigned,2026-01-30 22:09:00,
+CMP0027,RES212,Issue: Kitchen sink pipe leaking,Basement Parking,Plumbing,Medium,Closed,2026-03-05 06:59:00,TECH17
+CMP0028,RES167,Elevator display broken,Clubhouse,Elevator,Critical,Assigned,2026-01-16 14:20:00,
+CMP0029,RES661,Unknown person loitering,Basement Parking,Security,Low,Closed,2026-03-10 22:42:00,TECH26
+CMP0030,RES131,Issue: No water supply,Main Gate,Plumbing,Medium,Resolved,2026-02-09 07:25:00,TECH19
+CMP0031,RES437,Foul smell near dustbin,Block A,Cleanliness,Critical,Open,2026-03-06 15:18:00,TECH11
+CMP0032,RES121,elevator door not closing please fix ASAP,Block C,Elevator,Medium,Open,2026-02-14 13:30:00,TECH25
+CMP0033,RES111,Issue: Foul smell near dustbin,Basement Parking,Cleanliness,Medium,Assigned,2026-01-01 04:56:00,
+CMP0034,RES619,Issue: Drainage blocked,Main Gate,Plumbing,Low,In Progress,2025-12-26 21:23:00,TECH11
+CMP0035,RES832,Issue: Lift stuck between floors,Block A,Elevator,Low,Assigned,2026-02-11 12:12:00,TECH49
+CMP0036,RES913,street light not working please fix ASAP,Main Gate,Electrical,Critical,Open,2026-02-13 22:29:00,TECH44
+CMP0037,RES996,lift buttons not responding please fix ASAP,Main Gate,Elevator,High,Closed,2026-03-08 04:50:00,TECH47
+CMP0038,RES476,Issue: Street light not working,Block B,Electrical,High,Open,2026-01-01 16:42:00,TECH26
+CMP0039,RES203,Issue: Dripping tap in washroom,Main Gate,Plumbing,Critical,Open,2026-02-11 14:02:00,
+CMP0040,RES347,lift buttons not responding please fix ASAP,Block B,Elevator,Critical,Assigned,2026-01-26 01:16:00,TECH47
+CMP0041,RES340,lift stuck between floors please fix ASAP,Basement Parking,Elevator,Medium,Assigned,2026-03-01 03:35:00,TECH12
+CMP0042,RES584,Issue: Water leakage in bathroom,Basement Parking,Plumbing,Medium,In Progress,2026-03-06 17:55:00,TECH43
+CMP0043,RES514,Security guard sleeping on duty,Clubhouse,Security,High,Assigned,2025-12-19 07:42:00,
+CMP0044,RES601,drainage blocked please fix ASAP,Block C,Plumbing,Critical,Open,2026-01-07 04:40:00,
+CMP0045,RES935,dripping tap in washroom please fix ASAP,Clubhouse,Plumbing,Critical,Closed,2026-01-03 20:55:00,TECH35
+CMP0046,RES268,short circuit in mcb please fix ASAP,Block A,Electrical,Critical,Closed,2026-01-11 13:36:00,TECH16
+CMP0047,RES448,Water leakage in bathroom,Block A,Plumbing,High,Assigned,2026-02-04 19:54:00,TECH19
+CMP0048,RES145,lift fan not working please fix ASAP,Block B,Elevator,Critical,In Progress,2026-02-26 18:09:00,TECH13
+CMP0049,RES915,unknown person loitering please fix ASAP,Basement Parking,Security,High,Assigned,2026-01-07 16:23:00,
+CMP0050,RES880,Issue: Staircase is very dirty,Block C,Cleanliness,High,Assigned,2026-01-17 17:08:00,TECH20
+CMP0051,RES767,Main door lock stuck,Basement Parking,Carpentry,Medium,Assigned,2026-01-02 04:14:00,TECH33
+CMP0052,RES852,Issue: Drainage blocked,Basement Parking,Plumbing,High,Closed,2026-01-26 11:20:00,TECH38
+CMP0053,RES689,lift buttons not responding please fix ASAP,Main Gate,Elevator,Medium,Open,2026-02-20 21:12:00,TECH11
+CMP0054,RES702,Issue: Wooden flooring damage,Basement Parking,Carpentry,Medium,Assigned,2026-01-31 06:04:00,TECH30
+CMP0055,RES156,main gate unattended please fix ASAP,Clubhouse,Security,Critical,Resolved,2026-01-23 13:36:00,TECH45
+CMP0056,RES473,Staircase is very dirty,Clubhouse,Cleanliness,Low,Resolved,2025-12-14 21:57:00,TECH28
+CMP0057,RES390,Issue: Staircase is very dirty,Main Gate,Cleanliness,High,Resolved,2025-12-29 17:50:00,TECH50
+CMP0058,RES748,Clubhouse washroom unclean,Clubhouse,Cleanliness,Critical,In Progress,2026-01-10 01:35:00,TECH17
+CMP0059,RES531,Overhead tank overflowing,Block B,Plumbing,Medium,Closed,2025-12-19 05:43:00,TECH49
+CMP0060,RES130,no power in block b please fix ASAP,Block C,Electrical,Critical,Assigned,2026-02-16 18:22:00,
+CMP0061,RES643,Cupboard handle loose,Block B,Carpentry,High,Assigned,2026-02-10 05:36:00,TECH35
+CMP0062,RES517,Elevator display broken,Block A,Elevator,Critical,In Progress,2026-03-04 07:03:00,
+CMP0063,RES595,Elevator door not closing,Block B,Elevator,Critical,In Progress,2026-03-09 05:35:00,TECH40
+CMP0064,RES236,Issue: Balcony door not closing,Block C,Carpentry,High,In Progress,2026-01-02 01:18:00,TECH46
+CMP0065,RES325,Issue: Boom barrier not opening,Clubhouse,Security,Medium,In Progress,2026-02-18 17:35:00,TECH18
+CMP0066,RES468,dead rat in parking please fix ASAP,Block A,Cleanliness,High,Closed,2026-02-21 19:48:00,TECH35
+CMP0067,RES798,Cupboard handle loose,Clubhouse,Carpentry,Medium,Open,2025-12-13 12:47:00,TECH23
+CMP0068,RES880,Issue: No power in Block B,Main Gate,Electrical,Medium,Resolved,2026-01-16 14:55:00,
+CMP0069,RES309,Elevator door not closing,Clubhouse,Elevator,High,Closed,2026-03-06 21:43:00,TECH46
+CMP0070,RES440,Issue: Bypass entry detected,Clubhouse,Security,Low,Resolved,2026-03-06 17:27:00,TECH28
+CMP0071,RES324,Lift stuck between floors,Basement Parking,Elevator,High,Closed,2026-02-19 08:41:00,TECH30
+CMP0072,RES861,Issue: Security guard sleeping on duty,Basement Parking,Security,Critical,In Progress,2025-12-19 17:32:00,TECH21
+CMP0073,RES658,Issue: Lift making strange noise,Block A,Elevator,Critical,Assigned,2025-12-25 23:07:00,TECH36
+CMP0074,RES670,power cut in apartment please fix ASAP,Basement Parking,Electrical,High,Resolved,2026-02-11 07:14:00,TECH32
+CMP0075,RES751,Issue: Drainage blocked,Block C,Plumbing,Low,In Progress,2026-03-09 08:10:00,TECH29
+CMP0076,RES850,Issue: Elevator door not closing,Basement Parking,Elevator,Medium,Open,2026-02-20 17:13:00,TECH13
+CMP0077,RES918,switchboard sparking please fix ASAP,Basement Parking,Electrical,Low,Closed,2025-12-13 14:42:00,TECH25
+CMP0078,RES703,Issue: Bypass entry detected,Block A,Security,Medium,Open,2026-01-09 00:20:00,TECH19
+CMP0079,RES236,Kitchen sink pipe leaking,Main Gate,Plumbing,Low,In Progress,2026-02-08 21:46:00,TECH17
+CMP0080,RES586,Issue: Lift stuck between floors,Basement Parking,Elevator,Low,Resolved,2025-12-24 02:35:00,
+CMP0081,RES393,Issue: Security guard sleeping on duty,Block C,Security,Critical,Open,2026-02-26 01:23:00,TECH11
+CMP0082,RES330,Issue: Lift stuck between floors,Block B,Elevator,High,Closed,2025-12-23 09:13:00,TECH38
+CMP0083,RES124,Kitchen sink pipe leaking,Block A,Plumbing,High,Closed,2026-02-21 22:00:00,TECH15
+CMP0084,RES399,no power in block b please fix ASAP,Clubhouse,Electrical,High,Assigned,2026-01-02 09:36:00,TECH37
+CMP0085,RES686,Bypass entry detected,Block C,Security,Low,Assigned,2026-01-08 17:33:00,TECH36
+CMP0086,RES702,Boom barrier not opening,Clubhouse,Security,Low,Open,2026-02-10 20:20:00,TECH17
+CMP0087,RES780,Unknown person loitering,Block B,Security,Low,In Progress,2026-03-02 12:57:00,
+CMP0088,RES487,Lift fan not working,Block C,Elevator,Critical,In Progress,2026-03-06 02:51:00,TECH40
+CMP0089,RES267,Staircase is very dirty,Block C,Cleanliness,Medium,Closed,2025-12-28 01:01:00,TECH30
+CMP0090,RES180,Power cut in apartment,Basement Parking,Electrical,Medium,Open,2026-02-17 08:07:00,TECH31
+CMP0091,RES885,lift fan not working please fix ASAP,Block C,Elevator,Critical,Assigned,2026-01-27 03:21:00,TECH31
+CMP0092,RES376,Window sliding track jammed,Block C,Carpentry,Medium,Assigned,2026-02-20 23:54:00,TECH37
+CMP0093,RES986,Issue: Switchboard sparking,Basement Parking,Electrical,Low,Resolved,2026-02-21 12:31:00,TECH20
+CMP0094,RES362,Issue: Switchboard sparking,Clubhouse,Electrical,Critical,Closed,2026-01-22 15:14:00,TECH47
+CMP0095,RES332,Security guard sleeping on duty,Main Gate,Security,Medium,In Progress,2026-01-28 06:43:00,TECH43
+CMP0096,RES155,Issue: Dripping tap in washroom,Main Gate,Plumbing,High,Assigned,2026-02-21 11:15:00,TECH17
+CMP0097,RES525,corridor lights flickering please fix ASAP,Block B,Electrical,Medium,Open,2025-12-27 14:57:00,
+CMP0098,RES889,Corridor sweeping missed,Clubhouse,Cleanliness,High,Closed,2026-02-23 17:07:00,TECH11
+CMP0099,RES537,No water supply,Basement Parking,Plumbing,Low,Closed,2025-12-26 23:30:00,
+CMP0100,RES687,Issue: Balcony door not closing,Block C,Carpentry,Critical,Assigned,2026-02-20 01:24:00,TECH10
+CMP0101,RES136,Issue: Foul smell near dustbin,Block B,Cleanliness,Critical,Assigned,2026-03-09 02:28:00,TECH28
+CMP0102,RES705,Issue: Dead rat in parking,Main Gate,Cleanliness,Low,Open,2026-03-01 05:49:00,
+CMP0103,RES591,Issue: Foul smell near dustbin,Block C,Cleanliness,Medium,Assigned,2026-01-09 16:08:00,TECH47
+CMP0104,RES943,Issue: Lift fan not working,Basement Parking,Elevator,Low,Resolved,2026-02-11 19:23:00,
+CMP0105,RES248,Dead rat in parking,Main Gate,Cleanliness,High,Closed,2025-12-25 15:15:00,
+CMP0106,RES546,boom barrier not opening please fix ASAP,Main Gate,Security,Low,Assigned,2026-03-01 02:21:00,TECH37
+CMP0107,RES866,Issue: Foul smell near dustbin,Block B,Cleanliness,High,Assigned,2026-03-12 01:03:00,TECH46
+CMP0108,RES861,Issue: Elevator door not closing,Main Gate,Elevator,Critical,Assigned,2026-03-11 14:56:00,TECH49
+CMP0109,RES311,Elevator door not closing,Basement Parking,Elevator,High,In Progress,2026-02-12 17:04:00,TECH14
+CMP0110,RES432,Issue: Boom barrier not opening,Block A,Security,Medium,In Progress,2026-02-21 19:20:00,TECH35
+CMP0111,RES201,corridor lights flickering please fix ASAP,Block C,Electrical,Medium,In Progress,2026-01-24 07:11:00,TECH14
+CMP0112,RES578,Dead rat in parking,Basement Parking,Cleanliness,Medium,Assigned,2025-12-13 19:46:00,TECH26
+CMP0113,RES718,Dripping tap in washroom,Basement Parking,Plumbing,Medium,Open,2026-01-13 05:54:00,TECH28
+CMP0114,RES999,Corridor lights flickering,Block C,Electrical,Low,Resolved,2026-01-08 21:17:00,TECH47
+CMP0115,RES509,Issue: Staircase is very dirty,Main Gate,Cleanliness,High,In Progress,2025-12-30 23:37:00,TECH17
+CMP0116,RES200,Issue: Clubhouse washroom unclean,Basement Parking,Cleanliness,Critical,Open,2026-02-03 03:02:00,TECH32
+CMP0117,RES112,Issue: Staircase is very dirty,Basement Parking,Cleanliness,High,Resolved,2026-02-26 04:50:00,TECH33
+CMP0118,RES659,elevator display broken please fix ASAP,Block C,Elevator,Critical,Closed,2026-02-17 17:49:00,TECH42
+CMP0119,RES807,Issue: Drainage blocked,Basement Parking,Plumbing,Low,Assigned,2026-03-06 13:17:00,
+CMP0120,RES558,Staircase is very dirty,Main Gate,Cleanliness,Low,Assigned,2026-01-19 20:46:00,TECH20
+CMP0121,RES885,Lift buttons not responding,Block C,Elevator,Medium,Resolved,2026-02-28 06:08:00,TECH18
+CMP0122,RES379,Issue: No water supply,Block B,Plumbing,Critical,Open,2026-02-22 09:19:00,TECH13
+CMP0123,RES607,Bypass entry detected,Basement Parking,Security,Medium,Assigned,2026-02-04 19:48:00,TECH38
+CMP0124,RES391,Main gate unattended,Main Gate,Security,Medium,Closed,2026-01-09 12:29:00,TECH24
+CMP0125,RES420,Corridor lights flickering,Block B,Electrical,Low,Assigned,2026-02-15 07:46:00,TECH17
+CMP0126,RES955,Issue: Foul smell near dustbin,Block B,Cleanliness,Critical,In Progress,2026-01-02 17:33:00,TECH40
+CMP0127,RES292,Door hinge broken,Block C,Carpentry,Critical,Open,2026-02-06 07:12:00,TECH13
+CMP0128,RES901,bypass entry detected please fix ASAP,Main Gate,Security,Medium,Closed,2026-01-27 01:27:00,TECH12
+CMP0129,RES387,switchboard sparking please fix ASAP,Block C,Electrical,High,Open,2026-01-11 03:40:00,TECH17
+CMP0130,RES934,unknown person loitering please fix ASAP,Basement Parking,Security,Low,Closed,2026-02-01 11:03:00,TECH20
+CMP0131,RES368,overhead tank overflowing please fix ASAP,Block A,Plumbing,Low,Assigned,2026-01-21 06:45:00,
+CMP0132,RES700,Issue: Switchboard sparking,Block A,Electrical,Low,Closed,2026-01-18 12:30:00,TECH19
+CMP0133,RES290,Issue: Main gate unattended,Basement Parking,Security,Medium,Open,2026-02-05 16:08:00,TECH17
+CMP0134,RES782,Corridor lights flickering,Clubhouse,Electrical,High,Resolved,2026-03-11 10:57:00,TECH26
+CMP0135,RES476,Issue: Drainage blocked,Block C,Plumbing,High,Open,2026-01-10 02:10:00,TECH22
+CMP0136,RES189,Issue: Corridor lights flickering,Basement Parking,Electrical,Critical,Open,2026-01-17 11:43:00,TECH33
+CMP0137,RES994,boom barrier not opening please fix ASAP,Clubhouse,Security,High,In Progress,2026-01-03 20:57:00,TECH35
+CMP0138,RES682,unknown person loitering please fix ASAP,Main Gate,Security,Medium,Resolved,2026-01-07 19:19:00,
+CMP0139,RES387,Issue: Main door lock stuck,Basement Parking,Carpentry,Low,Assigned,2026-02-24 16:52:00,TECH45
+CMP0140,RES932,Dead rat in parking,Main Gate,Cleanliness,Low,In Progress,2026-02-09 08:00:00,TECH11
+CMP0141,RES228,Issue: Power cut in apartment,Block A,Electrical,Low,Assigned,2026-01-18 15:10:00,TECH45
+CMP0142,RES332,lift fan not working please fix ASAP,Block B,Elevator,Low,In Progress,2026-01-29 20:25:00,TECH35
+CMP0143,RES147,Kitchen sink pipe leaking,Basement Parking,Plumbing,Low,Resolved,2026-02-19 02:14:00,TECH33
+CMP0144,RES524,water leakage in bathroom please fix ASAP,Clubhouse,Plumbing,Medium,Resolved,2026-01-01 11:59:00,
+CMP0145,RES674,Issue: Lift fan not working,Block C,Elevator,High,Open,2026-01-09 10:20:00,TECH41
+CMP0146,RES120,Issue: Clubhouse washroom unclean,Block C,Cleanliness,Critical,Open,2025-12-17 05:24:00,TECH33
+CMP0147,RES591,Lift buttons not responding,Block C,Elevator,Critical,Resolved,2026-01-01 13:21:00,TECH17
+CMP0148,RES164,Staircase is very dirty,Block B,Cleanliness,High,In Progress,2025-12-31 17:13:00,TECH39
+CMP0149,RES193,security guard sleeping on duty please fix ASAP,Block B,Security,Medium,In Progress,2026-02-17 11:37:00,
+CMP0150,RES216,Foul smell near dustbin,Block A,Cleanliness,Critical,Resolved,2026-01-24 11:11:00,TECH35
+CMP0151,RES623,garbage not collected please fix ASAP,Block A,Cleanliness,Medium,Open,2026-03-11 10:27:00,TECH24
+CMP0152,RES687,Clubhouse washroom unclean,Clubhouse,Cleanliness,Low,Open,2026-01-18 04:24:00,TECH10
+CMP0153,RES302,Power cut in apartment,Basement Parking,Electrical,High,Resolved,2026-02-27 17:28:00,TECH49
+CMP0154,RES618,dead rat in parking please fix ASAP,Basement Parking,Cleanliness,Critical,Resolved,2026-01-27 21:53:00,TECH47
+CMP0155,RES890,window sliding track jammed please fix ASAP,Main Gate,Carpentry,High,Resolved,2025-12-28 18:35:00,TECH30
+CMP0156,RES664,boom barrier not opening please fix ASAP,Main Gate,Security,Critical,Closed,2026-03-08 21:38:00,TECH20
+CMP0157,RES167,Issue: Water leakage in bathroom,Block A,Plumbing,Critical,In Progress,2026-03-03 19:19:00,
+CMP0158,RES662,Garbage not collected,Clubhouse,Cleanliness,High,Resolved,2026-02-26 20:19:00,TECH23
+CMP0159,RES134,garbage not collected please fix ASAP,Basement Parking,Cleanliness,Critical,Open,2026-01-28 18:44:00,
+CMP0160,RES875,Garbage not collected,Basement Parking,Cleanliness,Medium,Closed,2026-02-14 04:25:00,TECH32
+CMP0161,RES486,Dripping tap in washroom,Clubhouse,Plumbing,High,Closed,2026-02-26 22:55:00,TECH49
+CMP0162,RES209,elevator display broken please fix ASAP,Block A,Elevator,Medium,Assigned,2026-03-04 07:16:00,TECH35
+CMP0163,RES296,clubhouse washroom unclean please fix ASAP,Main Gate,Cleanliness,High,In Progress,2026-01-05 00:24:00,TECH33
+CMP0164,RES171,short circuit in mcb please fix ASAP,Clubhouse,Electrical,Medium,Resolved,2026-03-03 14:23:00,TECH29
+CMP0165,RES605,Boom barrier not opening,Clubhouse,Security,Medium,Closed,2025-12-25 23:27:00,TECH44
+CMP0166,RES248,Issue: Lift stuck between floors,Block C,Elevator,Low,Assigned,2026-01-03 04:38:00,TECH32
+CMP0167,RES440,bypass entry detected please fix ASAP,Main Gate,Security,Critical,In Progress,2026-02-20 17:44:00,TECH44
+CMP0168,RES462,Lift fan not working,Block B,Elevator,Low,Closed,2025-12-21 20:40:00,TECH37
+CMP0169,RES168,Issue: Main gate unattended,Basement Parking,Security,High,Open,2026-01-11 16:14:00,TECH45
+CMP0170,RES121,Corridor sweeping missed,Clubhouse,Cleanliness,Low,Closed,2026-02-27 14:13:00,
+CMP0171,RES534,Issue: Bypass entry detected,Block B,Security,Medium,In Progress,2026-01-17 23:31:00,TECH11
+CMP0172,RES564,unknown person loitering please fix ASAP,Basement Parking,Security,Medium,Assigned,2025-12-29 03:27:00,TECH18
+CMP0173,RES525,Issue: Kitchen sink pipe leaking,Block A,Plumbing,High,Assigned,2026-01-22 03:12:00,
+CMP0174,RES219,No power in Block B,Basement Parking,Electrical,Critical,Closed,2026-01-22 13:22:00,TECH20
+CMP0175,RES964,Bypass entry detected,Clubhouse,Security,Medium,In Progress,2026-02-12 05:04:00,TECH20
+CMP0176,RES136,Cupboard handle loose,Block A,Carpentry,Medium,Resolved,2025-12-14 02:37:00,TECH47
+CMP0177,RES102,Issue: Elevator door not closing,Block C,Elevator,Critical,Closed,2026-01-14 18:56:00,TECH16
+CMP0178,RES705,Lift making strange noise,Block A,Elevator,Medium,Open,2026-03-08 00:37:00,TECH48
+CMP0179,RES131,Issue: Door hinge broken,Basement Parking,Carpentry,Low,Resolved,2026-01-04 19:57:00,
+CMP0180,RES679,Issue: Short circuit in MCB,Block A,Electrical,Low,In Progress,2026-03-07 22:53:00,TECH46
+CMP0181,RES176,CCTV camera broken,Basement Parking,Security,Medium,Resolved,2026-01-01 11:24:00,TECH32
+CMP0182,RES755,Issue: Main gate unattended,Clubhouse,Security,Low,Assigned,2026-01-17 03:08:00,TECH37
+CMP0183,RES833,Water leakage in bathroom,Block A,Plumbing,Critical,Resolved,2026-02-14 06:13:00,
+CMP0184,RES446,Street light not working,Main Gate,Electrical,Low,Open,2026-03-07 19:31:00,TECH10
+CMP0185,RES822,door hinge broken please fix ASAP,Main Gate,Carpentry,High,Open,2025-12-30 02:59:00,TECH46
+CMP0186,RES587,Issue: No power in Block B,Clubhouse,Electrical,High,Resolved,2026-02-07 11:28:00,TECH19
+CMP0187,RES323,Corridor lights flickering,Main Gate,Electrical,Critical,Open,2025-12-15 00:44:00,TECH44
+CMP0188,RES651,Unknown person loitering,Main Gate,Security,High,Resolved,2026-01-13 22:34:00,TECH17
+CMP0189,RES996,Corridor lights flickering,Basement Parking,Electrical,High,Open,2025-12-16 11:25:00,TECH37
+CMP0190,RES937,No power in Block B,Block B,Electrical,Low,In Progress,2026-01-30 22:29:00,TECH46
+CMP0191,RES428,Overhead tank overflowing,Block A,Plumbing,Low,Resolved,2026-03-10 11:08:00,TECH48
+CMP0192,RES596,Issue: Power cut in apartment,Basement Parking,Electrical,High,Open,2026-02-25 20:26:00,
+CMP0193,RES431,Issue: Security guard sleeping on duty,Block A,Security,Critical,Closed,2026-01-26 03:24:00,
+CMP0194,RES885,Main door lock stuck,Basement Parking,Carpentry,Low,Open,2025-12-15 20:51:00,TECH32
+CMP0195,RES776,Short circuit in MCB,Basement Parking,Electrical,High,Assigned,2026-02-10 05:52:00,TECH24
+CMP0196,RES223,kitchen sink pipe leaking please fix ASAP,Basement Parking,Plumbing,High,Closed,2025-12-30 19:52:00,
+CMP0197,RES682,main door lock stuck please fix ASAP,Block A,Carpentry,Low,In Progress,2026-03-06 07:55:00,TECH26
+CMP0198,RES325,wooden flooring damage please fix ASAP,Basement Parking,Carpentry,Critical,Closed,2025-12-24 05:48:00,TECH23
+CMP0199,RES582,Issue: Corridor lights flickering,Block A,Electrical,Medium,Resolved,2026-02-13 19:38:00,TECH37
+CMP0200,RES130,Balcony door not closing,Main Gate,Carpentry,Medium,Open,2026-01-08 03:48:00,TECH31
+CMP0201,RES430,balcony door not closing please fix ASAP,Block B,Carpentry,Low,Resolved,2025-12-22 12:55:00,TECH27
+CMP0202,RES951,Issue: Overhead tank overflowing,Main Gate,Plumbing,High,Open,2026-02-28 01:22:00,
+CMP0203,RES522,Corridor lights flickering,Block B,Electrical,High,Resolved,2026-01-05 05:09:00,TECH45
+CMP0204,RES961,Issue: Lift making strange noise,Block B,Elevator,Critical,Open,2026-02-11 05:48:00,TECH46
+CMP0205,RES872,foul smell near dustbin please fix ASAP,Block A,Cleanliness,High,Closed,2026-01-26 12:06:00,TECH49
+CMP0206,RES889,boom barrier not opening please fix ASAP,Basement Parking,Security,Critical,Closed,2026-01-02 17:43:00,TECH22
+CMP0207,RES997,Corridor lights flickering,Block C,Electrical,Medium,In Progress,2026-01-19 02:43:00,TECH21
+CMP0208,RES604,Issue: Clubhouse washroom unclean,Block C,Cleanliness,Low,Open,2025-12-18 02:26:00,
+CMP0209,RES980,Issue: Corridor sweeping missed,Basement Parking,Cleanliness,Low,Closed,2026-01-25 13:41:00,TECH12
+CMP0210,RES944,Issue: Unknown person loitering,Block C,Security,Critical,Resolved,2026-03-01 06:08:00,TECH45
+CMP0211,RES339,Issue: Elevator door not closing,Basement Parking,Elevator,High,Resolved,2026-03-08 10:40:00,TECH21
+CMP0212,RES385,Issue: Corridor sweeping missed,Basement Parking,Cleanliness,Medium,Assigned,2025-12-17 10:01:00,
+CMP0213,RES821,Corridor lights flickering,Clubhouse,Electrical,Critical,In Progress,2025-12-27 00:19:00,TECH45
+CMP0214,RES794,kitchen sink pipe leaking please fix ASAP,Block A,Plumbing,Low,Closed,2026-01-08 03:32:00,TECH47
+CMP0215,RES400,Issue: Switchboard sparking,Basement Parking,Electrical,Critical,Open,2026-02-25 03:10:00,
+CMP0216,RES528,no water supply please fix ASAP,Clubhouse,Plumbing,Low,Assigned,2026-01-17 04:56:00,TECH36
+CMP0217,RES737,Issue: Clubhouse washroom unclean,Block A,Cleanliness,Medium,Closed,2026-02-13 06:38:00,TECH42
+CMP0218,RES154,Kitchen sink pipe leaking,Basement Parking,Plumbing,Critical,Open,2026-01-07 21:00:00,TECH34
+CMP0219,RES933,Issue: Street light not working,Block B,Electrical,High,In Progress,2026-02-24 06:09:00,TECH17
+CMP0220,RES129,lift buttons not responding please fix ASAP,Block C,Elevator,Medium,Resolved,2025-12-26 18:45:00,TECH20
+CMP0221,RES966,Issue: No power in Block B,Basement Parking,Electrical,Low,Resolved,2026-02-20 15:06:00,TECH30
+CMP0222,RES258,Short circuit in MCB,Block C,Electrical,Medium,Open,2026-02-21 07:20:00,TECH39
+CMP0223,RES994,Foul smell near dustbin,Block A,Cleanliness,High,Resolved,2026-02-02 01:08:00,
+CMP0224,RES173,Issue: Bypass entry detected,Clubhouse,Security,Low,Open,2026-01-26 17:02:00,TECH38
+CMP0225,RES337,Issue: Garbage not collected,Main Gate,Cleanliness,Critical,Assigned,2026-01-14 09:34:00,TECH43
+CMP0226,RES351,Kitchen sink pipe leaking,Basement Parking,Plumbing,High,Open,2026-03-03 12:34:00,TECH13
+CMP0227,RES494,Cupboard handle loose,Block A,Carpentry,High,Open,2026-03-12 04:09:00,TECH19
+CMP0228,RES378,Issue: Security guard sleeping on duty,Block B,Security,High,Resolved,2025-12-17 05:49:00,TECH50
+CMP0229,RES149,no water supply please fix ASAP,Clubhouse,Plumbing,Medium,Assigned,2026-01-10 13:52:00,TECH41
+CMP0230,RES554,Lift buttons not responding,Main Gate,Elevator,Medium,Closed,2026-01-22 05:00:00,TECH14
+CMP0231,RES262,door hinge broken please fix ASAP,Basement Parking,Carpentry,Critical,Open,2026-01-25 09:33:00,TECH11
+CMP0232,RES700,Issue: Foul smell near dustbin,Main Gate,Cleanliness,High,Resolved,2026-02-19 01:05:00,TECH21
+CMP0233,RES621,staircase is very dirty please fix ASAP,Basement Parking,Cleanliness,Low,Closed,2026-02-17 12:03:00,
+CMP0234,RES618,Elevator display broken,Main Gate,Elevator,Medium,Closed,2025-12-17 06:24:00,TECH15
+CMP0235,RES385,Issue: Garbage not collected,Block B,Cleanliness,Medium,In Progress,2026-01-04 21:39:00,TECH20
+CMP0236,RES384,Issue: Window sliding track jammed,Basement Parking,Carpentry,High,Assigned,2026-02-26 18:52:00,TECH14
+CMP0237,RES372,Foul smell near dustbin,Block B,Cleanliness,Critical,In Progress,2025-12-18 00:45:00,TECH44
+CMP0238,RES524,Issue: Lift making strange noise,Main Gate,Elevator,Medium,Closed,2026-01-30 06:48:00,TECH34
+CMP0239,RES546,Issue: Kitchen sink pipe leaking,Main Gate,Plumbing,Low,Assigned,2026-01-25 00:30:00,TECH27
+CMP0240,RES937,Issue: Dead rat in parking,Block A,Cleanliness,Medium,Closed,2025-12-24 19:19:00,
+CMP0241,RES990,cupboard handle loose please fix ASAP,Clubhouse,Carpentry,High,Closed,2026-01-07 20:02:00,TECH37
+CMP0242,RES229,lift making strange noise please fix ASAP,Block C,Elevator,Medium,Assigned,2026-02-13 23:11:00,
+CMP0243,RES522,Corridor sweeping missed,Clubhouse,Cleanliness,Medium,Assigned,2026-01-09 16:37:00,TECH17
+CMP0244,RES445,Overhead tank overflowing,Clubhouse,Plumbing,Medium,In Progress,2026-02-26 20:52:00,
+CMP0245,RES106,Issue: Lift fan not working,Main Gate,Elevator,Medium,In Progress,2026-03-03 11:11:00,TECH27
+CMP0246,RES668,no water supply please fix ASAP,Block B,Plumbing,Low,Resolved,2026-01-09 11:37:00,TECH44
+CMP0247,RES864,switchboard sparking please fix ASAP,Block B,Electrical,Critical,Assigned,2026-01-10 04:00:00,TECH21
+CMP0248,RES329,Issue: Main gate unattended,Clubhouse,Security,Critical,Open,2026-02-20 02:44:00,
+CMP0249,RES628,Garbage not collected,Block B,Cleanliness,High,Closed,2026-02-17 10:28:00,TECH12
+CMP0250,RES841,dead rat in parking please fix ASAP,Block B,Cleanliness,Critical,Open,2026-01-23 08:21:00,TECH29
