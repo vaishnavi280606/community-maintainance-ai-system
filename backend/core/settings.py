@@ -4,6 +4,7 @@ Django settings for Community Maintenance AI System.
 
 import os
 import sys
+import dj_database_url
 from pathlib import Path
 from datetime import timedelta
 
@@ -14,11 +15,15 @@ PROJECT_ROOT = BASE_DIR.parent
 # Add ai_engine to Python path
 sys.path.insert(0, str(PROJECT_ROOT / 'ai_engine'))
 
-SECRET_KEY = 'django-insecure-e(_=z3lnpp^x)hu)k#t5-_=%6ob6)xf9dd(qlk+vp$kn5uc_^='
+SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-e(_=z3lnpp^x)hu)k#t5-_=%6ob6)xf9dd(qlk+vp$kn5uc_^=')
 
-DEBUG = True
+DEBUG = os.environ.get('DEBUG', 'True').lower() == 'true'
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = os.environ.get('ALLOWED_HOSTS', '*').split(',')
+
+RENDER_EXTERNAL_HOSTNAME = os.environ.get('RENDER_EXTERNAL_HOSTNAME')
+if RENDER_EXTERNAL_HOSTNAME:
+    ALLOWED_HOSTS.append(RENDER_EXTERNAL_HOSTNAME)
 
 # Application definition
 INSTALLED_APPS = [
@@ -37,6 +42,7 @@ INSTALLED_APPS = [
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'corsheaders.middleware.CorsMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -65,12 +71,12 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'core.wsgi.application'
 
-# Database — using SQLite for development (swap to PostgreSQL for production)
+# Database — PostgreSQL on Render, SQLite for local dev
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
+    'default': dj_database_url.config(
+        default=f'sqlite:///{BASE_DIR / "db.sqlite3"}',
+        conn_max_age=600,
+    )
 }
 
 # Custom user model
@@ -104,7 +110,8 @@ SIMPLE_JWT = {
 }
 
 # CORS
-CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOWED_ORIGINS = os.environ.get('CORS_ALLOWED_ORIGINS', 'http://localhost:3000,http://localhost:3001').split(',')
+CORS_ALLOW_ALL_ORIGINS = os.environ.get('CORS_ALLOW_ALL', 'True').lower() == 'true'
 
 # Internationalization
 LANGUAGE_CODE = 'en-us'
@@ -114,6 +121,8 @@ USE_TZ = True
 
 # Static files
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 # Default primary key field type
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'

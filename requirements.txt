@@ -10,3 +10,6 @@ pandas
 numpy
 shap
 django-cors-headers
+gunicorn
+whitenoise
+dj-database-url
